@@ -1,0 +1,46 @@
+
+      
+
+      main {
+        padding: 20px;
+        margin: 50px;
+        text-align: center;
+        box-shadow: 0px 0px 5px grey;
+        font-family: Roboto, sans-serif;
+      }
+
+      h1 {
+        /* box-shadow: 0px 0px 1px black; */
+        padding: 2px 0px;
+        margin-top: 5px;
+      }
+
+      section {
+        /* box-shadow: 0px 0px 1px black; */
+        padding: 5px 3px;
+      }
+
+      #entrants, #tickets {
+        box-shadow: 0px 0px 1px black;
+        padding: 2px 5px;
+      }
+
+      #results {
+        padding: 5px 12px;
+        width: 100px;     
+        margin-left: 44%;   
+      }
+      
+      #start {
+        box-shadow: -1px -1px 0px SKYBLUE;
+        padding: 3px 10px;
+        font-size: 0.9em;
+        background-color: SKYBLUE;
+        text-shadow: 0px 0px 1px SKYBLUE;
+        height: 100px;
+        width: 200px;
+      }
+
+      button:hover {
+        background-color: rgb(151, 109, 109);
+      }
